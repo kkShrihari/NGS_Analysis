@@ -186,9 +186,3 @@ Ensures reliability of downstream analyses.
 ## Summary
 
 DNA-based NGS enables a wide range of analyses from basic variant detection to complex population and epigenetic studies. The choice of analysis depends on the research or clinical objective.
-
----
-
-## License
-
-This repository is intended for educational and research purposes.
